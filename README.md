@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=025EF7&multiline=true&width=435&height=65&lines=Software+Engineer;Data Engineer;Backend Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=025EF7&multiline=true&width=435&height=95&lines=Software+Engineer;Data+Engineer;Backend+Systems)](https://git.io/typing-svg)
 
 <br/>
-
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzxan&layout=donut&theme=transparent&show_icons=true"/>
 <!--
 <details>
