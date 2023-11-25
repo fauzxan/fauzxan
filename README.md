@@ -85,3 +85,9 @@ Implementation of a simple application that uses the HTTP protocol, using REST A
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+# 2023, wrapped 🚀
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/fauzxan/fauzxan/assets/92146562/106a3c3c-1623-431e-a560-596f4b85bf71" />
+  </a>
+</p>
