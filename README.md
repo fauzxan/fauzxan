@@ -54,7 +54,7 @@ Messages sent over the _internet_ are divided into packets of information with a
 2. an appropriate labelled buffer is maintained so that missing packets are flagged
 3. resend mechanisms in place at the transport layer to ensure reliable _blackbox_ protocol, to which you send a message, and you can rest easy knowing it has gone through 🙃
 
-### [Application layer protocol - HTTP](https://github.com/fauzxan/rest_api)
+### [Application layer protocol - HTTP](https://github.com/fauzxan/Network-labs)
 _The vanilla, the classic, the HTTP protocol itself 🚀_
 Implementation of a simple application that uses the HTTP protocol, using REST API.
 
