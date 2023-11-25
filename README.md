@@ -14,9 +14,12 @@
 
 ## Distributed Systems 🌐
 Distributed Systems- like Blockchain, Cloud Services, P2P applications, etc. all function on a middleware that is built to be resilient and meet the requirements of a robust system, that appears singular to the user. 
-Given below is a view of the distributed system middleware that is required to make a functional service like Amazon Web Services, Ethereum, Azure, etc. 
-![image](https://github.com/fauzxan/fauzxan/assets/92146562/9ad64859-fb05-43c0-b69a-e256291800f9)
 
+Given below is a view of the distributed system middleware that is required to make a functional service like Amazon Web Services, Ethereum, Azure, etc. 
+
+<p align="center">
+  <img src="https://github.com/fauzxan/fauzxan/assets/92146562/9ad64859-fb05-43c0-b69a-e256291800f9" width="500">
+</p>
 The projects listed below target to implement a different section of the above middleware stack. 
 
 ### [Clocks, Causality and Leader Elections](https://github.com/fauzxan/distributed_systems)
