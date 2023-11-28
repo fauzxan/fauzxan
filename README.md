@@ -29,15 +29,29 @@ Given below is a view of the distributed system middleware that is required to m
 The projects listed below target to implement a different section of the above middleware stack. 
 
 ### [Clocks, Causality and Leader Elections](https://github.com/fauzxan/distributed_systems)
+📑[Lamport's original paper](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+
 Different systems may communicate at different times, and when this happens, there might be some inconsistency in the ordering of events at the two remote machines. 
 The repository above discusses some key protocols to address this issue using Lamport's scalar and vector clocks. 
 
 Additionally, many tasks done in a distributed system require a central-server-like capability to coordinate the events between multiple machines. The above repository also has an implementation of bully algorithm, which is a leader election algorithm based on some consensus among the peers. 
 
 ### [Distributed Mutual Exclusion Protocols](https://github.com/fauzxan/distributed_mutual_exclusion) 
+📑[Distributed Mutual Exclusion protocols](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=448903fa04b096e85ef272acca9c768b9a8a26f2)
+
 Distributed systems sometimes access a part of the memory/ some resource that can only be accessed by atmost one computer at a time. Examples of such sensitive information includes distributed ledgers, shared documents, bank accounts, etc. 
 
-The repository above implements three such protocols that are able to manage and grant access to locks to a machine on the network.
+The repository above implements three such protocols that are able to manage and grant access to locks to a machine on the network. We also go over an analysis of each of their performance, which has been outlined in the PDF attached. 
+
+### [DNS over Chord](https://github.com/fauzxan/dns-chord)
+📑[Original Chord paper](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
+
+Traditional DNS systems rely on a hierarchical system of servers which are queries recursively or iteratively. With chord, the DNS system can be implemented over a P2P network, where the nodes in the network themselves can store the data. Moreover, the authoritative server can be found within 1 hop at best, and at worst within 3 hops - offering a significant advantage over legacy DNS systems. The implementation above presents a study of a DNS-Chord implementation in terms of performance, and fault tolerance. 
+
+### [IVY (Integrated shared Virtual memory at Yale)](https://github.com/fauzxan/ivy)
+📑[IVY original paper](https://systems.cs.columbia.edu/ds2-class/papers/li-ivy.pdf)
+
+Given above is an implementation of IVY - which is a shared memory system used by researchers at Yale. IVY is an excellent example of how the sequential consistency is implemented in real life, and this repository seeks to analyze it's performance over multiple scenarios described there. 
 
 ## Networking systems 🖥️
 
@@ -57,6 +71,9 @@ Messages sent over the _internet_ are divided into packets of information with a
 ### [Application layer protocol - HTTP](https://github.com/fauzxan/Network-labs)
 _The vanilla, the classic, the HTTP protocol itself 🚀_
 Implementation of a simple application that uses the HTTP protocol, using REST API.
+
+### [DaoNet](https://github.com/fauzxan/DaoNet)
+DaoNet is inspired by [Riot Game's frame sync](https://technology.riotgames.com/news/determinism-league-legends-unified-clock) mechanism through a unified game clock. DaoNet seeks to extend these capabilities to a P2P network, where there is no central server to coordinate the interaction of the peers in the network. It navigates the presence of non-Byzantine faults in a P2P system and accounts for liveness constraint in multiplayer games.  
 
  ## ⚡ Technologies
 
