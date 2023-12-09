@@ -78,10 +78,16 @@ DaoNet is inspired by [Riot Game's frame sync](https://technology.riotgames.com/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,java,cpp,python,nodejs,aws,github,grafana,docker,mongodb,mysql,redis,postgres,postman,linux,jenkins,flask,fastapi)" />
+    <img src="https://skillicons.dev/icons?i=go,js,java,cpp,python,nodejs,aws,github,grafana,docker,mongodb,mysql,redis,postgres,postman" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,jenkins,flask,fastapi" />
   </a>
 </p>
 
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -99,7 +105,7 @@ DaoNet is inspired by [Riot Game's frame sync](https://technology.riotgames.com/
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+-->
 # 2023, wrapped 🚀
 <p align="center">
   <a href="https://skillicons.dev">
