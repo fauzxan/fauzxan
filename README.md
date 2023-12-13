@@ -44,6 +44,8 @@ The repository above implements three such protocols that are able to manage and
 ### [DNS over Chord](https://github.com/fauzxan/dns-chord)
 📑[Original Chord paper](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 
+📑[Findings report](https://github.com/fauzxan/dns-chord/blob/main/documentation/50_041_Distributed_Systems_Project.pdf)
+
 Traditional DNS systems rely on a hierarchical system of servers which are queries recursively or iteratively. With chord, the DNS system can be implemented over a P2P network, where the nodes in the network themselves can store the data. Moreover, the authoritative server can be found within 1 hop at best, and at worst within 3 hops - offering a significant advantage over legacy DNS systems. The implementation above presents a study of a DNS-Chord implementation in terms of performance, and fault tolerance. 
 
 ### [IVY (Integrated shared Virtual memory at Yale)](https://github.com/fauzxan/ivy)
