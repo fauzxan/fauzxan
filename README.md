@@ -16,6 +16,21 @@
 
 # Highlights
 
+## Elgo | Startup
+We found that Restaurants in SouthEast Asia consume 4 times more electricity per square meter as compared to office buildings. 
+
+But all the existing solutions in the market target only... commercial buildings?
+
+Alas! I co-founded [a startup called Elgo](https://www.linkedin.com/company/elgoelectric/) in 2022, which focused on developing algorithms to help restaurants save electricity.
+
+🕸️ [Check out our website here!](https://www.elgoapp.com/)
+
+🍽️ [Check out the repository here!](https://github.com/ElgoElectric)
+
+🗒️ [Check out our whitepaper here!](https://www.elgoapp.com/report.pdf)
+
+
+
 ## Distributed Systems 🌐
 Distributed Systems- like Blockchain, Cloud Services, P2P applications, etc. all function on a middleware that is built to be resilient and meet the requirements of a robust system, that appears singular to the user. 
 
