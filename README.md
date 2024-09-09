@@ -9,7 +9,7 @@
 <!--
 <details>
   <image align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=fauzxan" />
-</details>
+</details> Test change
 -->
 
 <br/>
