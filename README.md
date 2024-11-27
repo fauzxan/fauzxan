@@ -23,11 +23,11 @@ But all the existing solutions in the market target only... commercial buildings
 
 Alas! I co-founded [a startup called Elgo](https://www.linkedin.com/company/elgoelectric/) in 2022, which focused on developing algorithms to help restaurants save electricity.
 
-🕸️ [Check out our website here!](https://www.elgoapp.com/)
+🕸️ [Check out our website here!](https://elgo-webapp.vercel.app/)
 
 🍽️ [Check out the repository here!](https://github.com/ElgoElectric)
 
-🗒️ [Check out our whitepaper here!](https://www.elgoapp.com/report.pdf)
+🗒️ [Check out our whitepaper here!](https://elgo-webapp.vercel.app/report.pdf)
 
 
 
