@@ -124,9 +124,18 @@ DaoNet is inspired by [Riot Game's frame sync](https://technology.riotgames.com/
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 -->
-# 2023, wrapped 🚀
+# 2024, wrapped 🚀
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/d6a0f06f-2a58-4add-af4d-41caaa12b331" />
+  </a>
+</p>
+<details>
+<summary><h1>2023, wrapped 🚀</h1></summary>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://github.com/fauzxan/fauzxan/assets/92146562/850c399a-471b-4c11-8234-dbd25bd5c015" />
   </a>
 </p>
+</details>
