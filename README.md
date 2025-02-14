@@ -4,6 +4,7 @@
 <p align="center">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzxan&layout=donut&theme=transparent&show_icons=true"/>-->
   <img align="center" src="https://api.githubtrends.io/user/svg/fauzxan/langs?time_range=one_year&loc_metric=changed&theme=classic"/>
+  <img align="center" src="https://api.githubtrends.io/user/svg/fauzxan/repos?time_range=one_year&group=other&theme=dark"/>
 </p>
 
 <!--
